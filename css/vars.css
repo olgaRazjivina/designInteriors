@@ -1,0 +1,8 @@
+:root {
+  --container-width: 1140px;
+  --color-light: rgba(255, 255, 255, 0.7);
+  --color-light-bright: rgba(255, 255, 255, 0.9);
+  --color-dark: #000000;
+  --color-accent: #5a80b1;
+  --index: calc(1vw + 1vh);
+}
